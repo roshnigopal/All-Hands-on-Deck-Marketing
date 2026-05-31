@@ -3,6 +3,8 @@ operate at the scale of a full marketing team.
 
 Built with: React, Lovable, Claude API (Anthropic)
 
+App Link : https://allhandsondeck.lovable.app/
+
 ## What it does
 Describe any product → 6 AI agents collaborate sequentially:
 - CMO → Strategy
